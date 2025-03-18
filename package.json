@@ -31,13 +31,13 @@
     "ts-node": "^10.9.1",
     "tslib": "^2.6.1",
     "typescript": "^5.1.6",
-    "viem": "^2.23.10"
+    "viem": "^2.0.0"
   },
   "dependencies": {
     "axios": "^1.5.0",
     "zod": "^3.21.4"
   },
   "peerDependencies": {
-    "viem": "^1.11.0 || ^2.0.0"
+    "viem": "^2.0.0"
   }
 }
