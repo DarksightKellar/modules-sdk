@@ -13,7 +13,6 @@
     "eslint:fix": "eslint . --ext '.ts,.tsx' --fix"
   },
   "devDependencies": {
-    "@hatsprotocol/sdk-v1-core": "^0.8.0",
     "@rollup/plugin-json": "^6.0.0",
     "@types/jest": "^29.5.3",
     "@typescript-eslint/eslint-plugin": "^6.3.0",
